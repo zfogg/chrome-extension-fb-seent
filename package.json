@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/voidberg/chrome-extension-boilerplate",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "lodash": "^3.8.0"
   },
   "devDependencies": {
